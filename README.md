@@ -5,6 +5,8 @@
 
 A note taker application that can be used to write and save notes. Uses an Express.js back end and saves and retrieves from a JSON file.
 
+Source code from week 11 mini project (28) and various google sources.
+
 ## Table of Contents
 
 * [Installation](#installation)
